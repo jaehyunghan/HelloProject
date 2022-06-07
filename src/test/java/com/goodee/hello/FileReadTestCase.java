@@ -1,6 +1,6 @@
 package com.goodee.hello;
 
-import static org.junit.Assert.assertArrayEquals;
+
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
